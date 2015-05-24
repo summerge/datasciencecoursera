@@ -87,11 +87,8 @@ Detection Prevalence   0.2870   0.1947   0.1803   0.1578   0.1801
 Balanced Accuracy      0.9876   0.9625   0.9694   0.9688   0.9819
 
 ```
-<<<<<<< HEAD
 the rf model training and validation result is
-=======
-the gbm model training and validation result is
->>>>>>> origin/master
+
 
 ```
    user  system elapsed 
